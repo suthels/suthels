@@ -46,18 +46,17 @@
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
-  </a>
-  &emsp;
+  
       <a href="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+    <img src="![image](https://github.com/user-attachments/assets/46bae51d-edcc-44aa-a77e-5a5ddbb334d0)" width="30px"/>
   </a>
   &emsp;
+  
      <a href="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
+  
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
@@ -77,21 +76,21 @@
     <img src="https://badges.strrl.dev/commits/monthly/suthels?style=flat-square&color=black&logo=github">
   </a>
 </p>
+
+
  
 <h2></h2>
  
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
  
-### ![image](https://github.com/user-attachments/assets/86fedb4f-79e8-483e-b27c-a3e7f495aa66) Website and code
+###  Website and code
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:brain -->
 * <a href='https://mbd.pub/o/eternity/work' target='_blank'>mbd官方店铺</a>
 * <a href='https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343' target='_blank'>CSDN主站</a> - 
-* <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-20
 <!-- END_SECTION:brain -->
  
 </td></tr>
@@ -99,14 +98,12 @@
 <tr><td>
  
 ### 🤾‍♂️ 重点项目
- 
+
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
 * <a href='https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> - 完整转让
-
- 
- 
+  
 <!-- END_SECTION:douban -->
  
 </td></tr>
