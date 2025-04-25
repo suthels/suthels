@@ -1,12 +1,13 @@
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);南絮祝您生活愉快，科研顺利!&center=true&size=27"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=算法小狂人(%22欢迎%2C%20浏览!%22);南絮祝您生活愉快，科研顺利!&center=true&size=27"> 
   </a> 
 </h1>
 
 <a href="https://github.com/suthels/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=suthels&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=suthels&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-👀" />
 </a>
+
  
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">suthel (南絮)</a>
  
@@ -21,6 +22,9 @@
 - 💬 Be free to ask me about anything [here](https://github.com/suthels/-/issues).
 ---
 </details>
+
+
+
   
 ✨ 站主为算法小狂人博主。
 
@@ -33,7 +37,9 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
- 
+
+
+ <!-- 个人方式部分 -->
 <p align="center">
   <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
