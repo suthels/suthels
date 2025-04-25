@@ -92,33 +92,20 @@
 * [文章标题2](链接) - 发布日期
 * [文章标题3](链接) - 发布日期
 
-### <span style="color: #FFD166;">Website and code</span>
- <!-- START_SECTION:brain -->
-<div style="background-color: #fffbcc; padding: 8px; border-radius: 4px;">
-  * <a href="https://mbd.pub/o/eternity/work" target="_blank">mbd官方店铺</a><br>
-  * <a href="https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343" target="_blank">CSDN主站</a> -
-</div>
-<!-- END_SECTION:brain -->
+
+
+
+
+
 
 
 ### 🤾‍♂️ <span style="color: #06D6A0;">重点项目</span>
-
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
 * <a href='https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> - 完整转让
 <!-- END_SECTION:douban -->
-
-<!-- 新增访问统计 -->
-### 👀 <span style="color: #118AB2;">Profile Views</span>
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/suthels/count.svg" />
-</div>
-
-
 
 
 
