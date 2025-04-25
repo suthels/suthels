@@ -44,11 +44,11 @@
 ### 🏆 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/suthels/computer-vision-in-action">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suthels&repo=computer-vision-in-action&theme=dark" />
+  <a href="https://github.com/suthels/-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suthels&repo=-" />
   </a>
-  <a href="https://github.com/suthels/your-repo-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suthels&repo=your-repo-name&theme=dark" />
+  <a href="https://github.com/suthels/OpenSource">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suthels&repo=OpenSource&theme=dark" />
   </a>
 </div>
 
@@ -121,16 +121,13 @@
  
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
  
-### ![image](https://github.com/user-attachments/assets/86fedb4f-79e8-483e-b27c-a3e7f495aa66) Website and code
+### Website and code
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:brain -->
 * <a href='https://mbd.pub/o/eternity/work' target='_blank'>mbd官方店铺</a>
 * <a href='https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343' target='_blank'>CSDN主站</a> - 
-* <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-20
 <!-- END_SECTION:brain -->
  
 </td></tr>
