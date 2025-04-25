@@ -102,20 +102,22 @@
   <img src="https://profile-counter.glitch.me/suthels/count.svg" />
 </div>
 
-
 <!-- START_SECTION:brain -->
-<div style="
-  background-color: #FF4500;
-  border: 1px solid #E03E00;
-  border-radius: 6px;
-  padding: 12px;
-  color: white;
-">
-  <ul style="margin: 0; padding-left: 1.2em;">
-    <li><a href="https://mbd.pub/o/eternity/work" target="_blank" style="color: white; text-decoration: underline;">mbd官方店铺</a></li>
-    <li><a href="https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343" target="_blank" style="color: white; text-decoration: underline;">CSDN主站</a></li>
-  </ul>
+<div align="left">
+  <a href="https://mbd.pub/o/eternity/work" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/mbd官方店铺-访问-FF4500?style=for-the-badge" 
+      alt="mbd官方店铺" 
+    />
+  </a>
+  <a href="https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/CSDN主站-访问-FF4500?style=for-the-badge" 
+      alt="CSDN主站" 
+    />
+  </a>
 </div>
 <!-- END_SECTION:brain -->
+
 
 
