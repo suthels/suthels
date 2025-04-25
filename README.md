@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);南絮祝您今天愉快!&center=true&size=27"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);南絮 祝您生活愉快，科研顺利!&center=true&size=27"> 
   </a> 
 </h1>
 
@@ -17,51 +17,14 @@
  
 <!--my introduction start-->
     
-- 🔭 empty
-- 🌱 empty
-- 🤔 Only two things make me moved. 
-  1. empty
-  2. empty
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/suthels/suthels/issues).
- 
+- 🔭 WeChat：povz-1202
+- 💬 Be free to ask me about anything [here](https://github.com/suthels/-/issues).
 ---
 </details>
   
 ✨ 站主为算法小狂人博主。
 
-<!--my introduction end -->
- 
-<br>
- 
-<p align="center">
-  <a href="https://github.com/suthels" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=suthels&title_color=333&text_color=777" alt="suthels's Stats" >
-  </a>
-</p>
-
-<!-- 新增置顶仓库部分 -->
-### 🏆 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/suthels/-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suthels&repo=-" />
-  </a>
-  <a href="https://github.com/suthels/OpenSource">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suthels&repo=OpenSource&theme=dark" />
-  </a>
-</div>
-
-<!-- 新增最新文章部分 -->
-### 📝 Latest Blog Posts
-
-<!-- 使用GitHub Actions自动更新文章列表 -->
-* [文章标题1](链接) - 发布日期
-* [文章标题2](链接) - 发布日期
-* [文章标题3](链接) - 发布日期
-
 <!-- 新增技能卡片 -->
-### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -81,13 +44,9 @@
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
   &emsp;
+
   
-  <a href= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
-  </a>
-  &emsp;
-  
-  <a href="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
+  <a href="https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
@@ -96,30 +55,42 @@
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
+
   
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/suthels">
-    <img src="https://badges.strrl.dev/visits/suthels/suthels?style=flat-square&color=black&logo=github">
+
+
+
+<!-- 新增置顶仓库部分 -->
+### 🏆 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/suthels/-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suthels&repo=-&theme=dark" />
   </a>
-  <a href="https://github.com/suthels">
-    <img src="https://badges.strrl.dev/years/suthels?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/suthels/OpenSource">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suthels&repo=OpenSource&theme=dark" />
   </a>
-  <a href="https://github.com/suthels?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/suthels?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/suthels">
-    <img src="https://badges.strrl.dev/gists/suthels?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/suthels">
-    <img src="https://badges.strrl.dev/commits/monthly/suthels?style=flat-square&color=black&logo=github">
-  </a>
-</p>
- 
-<h2></h2>
- 
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+
+
+
+
+<!-- 新增最新文章部分 -->
+### 📝 Latest Blog Posts
+
+<!-- 使用GitHub Actions自动更新文章列表 -->
+* [文章标题1](链接) - 发布日期
+* [文章标题2](链接) - 发布日期
+* [文章标题3](链接) - 发布日期
+
+
+
+
+
+
+
+
  
 ### Website and code
  
@@ -146,12 +117,7 @@
  
 <tr><td>
 
-<!-- 新增GitHub贡献图 -->
-### 📊 GitHub Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suthels&theme=github-compact" />
-</div>
 
 <!-- 新增访问统计 -->
 ### 👀 Profile Views
