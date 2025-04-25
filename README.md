@@ -101,3 +101,12 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/suthels/count.svg" />
 </div>
+
+
+<!-- START_SECTION:brain -->
+<p style="background-color: #FF4500; padding: 8px; border-radius: 4px; color: white;">
+  * <a href="https://mbd.pub/o/eternity/work" target="_blank">mbd官方店铺</a><br>
+  * <a href="https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343" target="_blank">CSDN主站</a> -
+</p>
+<!-- END_SECTION:brain -->
+
