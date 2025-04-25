@@ -3,7 +3,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=suthels&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (南絮)</a>
+## Hi, 👋  I'm <a href="http://welcome.voup.cn">suthel (南絮)</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
@@ -103,7 +103,7 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
-* <a href='[25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线](https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA)' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> 
+* <a href='https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> 
 
  
  
