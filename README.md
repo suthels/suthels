@@ -22,13 +22,6 @@
 ---
 </details>
 
-
-
-
-
-  
-
-
 <!-- 新增技能卡片 -->
 
 <div align="center">
@@ -62,13 +55,10 @@
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
-
-  
-
-
+</p>
 
 <!-- 新增置顶仓库部分 -->
-### 🏆 Featured Repositories
+### 🏆 <span style="color: #FF6B6B;">Featured Repositories</span>
 
 <div align="center">
   <a href="https://github.com/suthels/-">
@@ -79,27 +69,15 @@
   </a>
 </div>
 
-
-
-
-
 <!-- 新增最新文章部分 -->
-### 📝 Latest Blog Posts
+### 📝 <span style="color: #4ECDC4;">Latest Blog Posts</span>
 
 <!-- 使用GitHub Actions自动更新文章列表 -->
 * [文章标题1](链接) - 发布日期
 * [文章标题2](链接) - 发布日期
 * [文章标题3](链接) - 发布日期
 
-
-
-
-
-
-
-
- 
-### Website and code
+### <span style="color: #FFD166;">Website and code</span>
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
@@ -108,26 +86,16 @@
 * <a href='https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343' target='_blank'>CSDN主站</a> - 
 <!-- END_SECTION:brain -->
  
-</td></tr>
- 
-<tr><td>
- 
-### 🤾‍♂️ 重点项目
+### 🤾‍♂️ <span style="color: #06D6A0;">重点项目</span>
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
 * <a href='https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> - 完整转让
 <!-- END_SECTION:douban -->
- 
-</td></tr>
- 
-<tr><td>
-
-
 
 <!-- 新增访问统计 -->
-### 👀 Profile Views
+### 👀 <span style="color: #118AB2;">Profile Views</span>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/suthels/count.svg" />
