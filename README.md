@@ -57,10 +57,12 @@
   &emsp;
 </p>
 
-<!-- 新增置顶仓库部分 -->
-### 🏆 <span style="color: #FF6B6B;">Featured Repositories</span>
+// ... existing code ...
 
-<div align="center">
+<!-- 新增置顶仓库部分 -->
+### 🏆 Featured Repositories
+
+<div align="center" style="background-color: #FFE5E5; padding: 10px; border-radius: 5px;">
   <a href="https://github.com/suthels/-">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suthels&repo=-&theme=dark" />
   </a>
@@ -70,33 +72,42 @@
 </div>
 
 <!-- 新增最新文章部分 -->
-### 📝 <span style="color: #4ECDC4;">Latest Blog Posts</span>
+### 📝 Latest Blog Posts
 
+<div style="background-color: #E5FFE5; padding: 10px; border-radius: 5px;">
 <!-- 使用GitHub Actions自动更新文章列表 -->
 * [文章标题1](链接) - 发布日期
 * [文章标题2](链接) - 发布日期
 * [文章标题3](链接) - 发布日期
+</div>
 
-### <span style="color: #FFD166;">Website and code</span>
+### Website and code
  
+<div style="background-color: #FFF5E5; padding: 10px; border-radius: 5px;">
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:brain -->
 * <a href='https://mbd.pub/o/eternity/work' target='_blank'>mbd官方店铺</a>
 * <a href='https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343' target='_blank'>CSDN主站</a> - 
 <!-- END_SECTION:brain -->
+</div>
  
-### 🤾‍♂️ <span style="color: #06D6A0;">重点项目</span>
+### 🤾‍♂️ 重点项目
  
+<div style="background-color: #E5F5FF; padding: 10px; border-radius: 5px;">
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
 * <a href='https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> - 完整转让
 <!-- END_SECTION:douban -->
+</div>
 
 <!-- 新增访问统计 -->
-### 👀 <span style="color: #118AB2;">Profile Views</span>
+### 👀 Profile Views
 
+<div style="background-color: #F0E5FF; padding: 10px; border-radius: 5px;">
 <div align="center">
   <img src="https://profile-counter.glitch.me/suthels/count.svg" />
 </div>
+</div>
+
