@@ -1,9 +1,9 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);残风同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);南絮祝您今天愉快!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/suthels/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=suthels&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (残风)</a>
+## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (南絮)</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
@@ -20,7 +20,7 @@
 ---
 </details>
   
-  ✨ 站主目前为江西财经大学大三生，东幻梦想工作室成员，小破站万粉UP主，喜欢编程，动画和剪辑。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
+  ✨ 站主为算法小狂人博主。
  
  
 <!--my introduction end -->
@@ -103,10 +103,8 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
-* <a href='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在学考研词汇闪过</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
-* <a href='https://www.bing.com/search?q=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&sc=10-6&sk=&cvid=69AADEED0BDA40CEAEA6681A39320017&ghsh=0&ghacc=0&ghpl=' target='_blank'>最近在学张宇考研数学</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
-* <a href='https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94' target='_blank'>最近在学王道考研</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看完肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='[25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线](https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA)' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> 
+
  
  
 <!-- END_SECTION:douban -->
