@@ -8,19 +8,6 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=suthels&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
- 
-## 👋  I'm <a href="http://welcome.voup.cn">suthel (南絮)</a> ——✨ 算法小狂人博主
- 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
-
-<details open>
-  <summary><em><b>       </em></summary>
-  
-- 🔭 WeChat：povz-1202  
-- 💬 Be free to ask me about anything [here](https://github.com/suthels/-/issues).
-
----
-</details>
 
 <!-- 新增技能卡片 -->
 
@@ -71,6 +58,36 @@
   </a>
   &emsp;
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+## 👋  I'm <a href="http://welcome.voup.cn">suthel (南絮)</a> ——✨ 算法小狂人博主
+ 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
+
+<details open>
+  <summary><em><b>       </em></summary>
+  
+- 🔭 WeChat：povz-1202  
+- 💬 Be free to ask me about anything [here](https://github.com/suthels/-/issues).
+
+---
+</details>
+
+
 
 <!-- 新增置顶仓库部分 -->
 ### 🏆 <span style="color: #FF6B6B;">Featured Repositories</span>
