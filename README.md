@@ -88,9 +88,9 @@
 ### 📝 <span style="color: #4ECDC4;">Latest Blog Posts</span>
 
 <!-- 使用GitHub Actions自动更新文章列表 -->
-* [文章标题1](链接) - 发布日期
-* [文章标题2](链接) - 发布日期
-* [文章标题3](链接) - 发布日期
+* [超全面！智能算法相关统计指标导出至excel/收敛图（平均）、箱线图，秩和检验](https://mp.weixin.qq.com/s/lMQYMOnjJV8T1lyotAoW5Q) - 2025年4月25日
+* [特征选择还会难？一键打造算法特征优化特征选择。完整封详细代码，可一键替换：一种基于高斯变异的基于对立的长城建造算法用于特征选择](https://mp.weixin.qq.com/s/hEdz2HoVM0dUyuNN78hn2w) - 2025年4月25日
+* [很简洁美观！博士/硕士研究生/毕业/开题答辩PPT模板上新，内附获取方式](https://mp.weixin.qq.com/s/mXQDhPu0fLF4kPCpJXRAcA) - 2025年4月24日
 
 
 
