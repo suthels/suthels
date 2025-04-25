@@ -82,13 +82,13 @@
  
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
  
-### 🧠 Web and code
+### ![image](https://github.com/user-attachments/assets/86fedb4f-79e8-483e-b27c-a3e7f495aa66) Website and code
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:brain -->
-* <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-* <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
+* <a href='https://mbd.pub/o/eternity/work' target='_blank'>mbd官方店铺</a>
+* <a href='https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343' target='_blank'>CSDN主站</a> - 
 * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-20
@@ -98,12 +98,12 @@
  
 <tr><td>
  
-### 🤾‍♂️ Funny Soul
+### 🤾‍♂️ 重点项目
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
-* <a href='https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> 
+* <a href='https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> - 完整转让
 
  
  
