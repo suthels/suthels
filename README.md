@@ -24,13 +24,27 @@
 
 <!-- 新增技能卡片 -->
 
+<!-- START_SECTION:brain -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <a href="https://mbd.pub/o/eternity/work" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/mbd官方店铺-访问-FF4500?style=for-the-badge" 
+      alt="mbd官方店铺" 
+    />
+  </a>
+  <a href="https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/CSDN主站-访问-FF4500?style=for-the-badge" 
+      alt="CSDN主站" 
+    />
+  </a>
 </div>
+<!-- END_SECTION:brain -->
+
+
+
+
+
 
 
  <!-- 个人方式部分 -->
@@ -98,26 +112,22 @@
 <!-- 新增访问统计 -->
 ### 👀 <span style="color: #118AB2;">Profile Views</span>
 
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/suthels/count.svg" />
 </div>
 
-<!-- START_SECTION:brain -->
-<div align="left">
-  <a href="https://mbd.pub/o/eternity/work" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/mbd官方店铺-访问-FF4500?style=for-the-badge" 
-      alt="mbd官方店铺" 
-    />
-  </a>
-  <a href="https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/CSDN主站-访问-FF4500?style=for-the-badge" 
-      alt="CSDN主站" 
-    />
-  </a>
-</div>
-<!-- END_SECTION:brain -->
+
+
+
+
+
+
+
+
+
+
+
 
 
 
