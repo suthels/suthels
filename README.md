@@ -9,12 +9,11 @@
 </a>
 
  
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">suthel (南絮)</a>
+## Hi, 👋  I'm <a href="http://welcome.voup.cn">suthel (南絮)</a> - ✨ 算法小狂人博主
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
 
 <details open>
-  <summary><em><b>I love connecting with different people</b> — if you want to <a href="https://voup.cn"><b>say "hi"</b></a>, I'll be happy to meet you more!</em></summary>
   
 - 🔭 WeChat：povz-1202  
 - 💬 Be free to ask me about anything [here](https://github.com/suthels/-/issues).
@@ -27,7 +26,7 @@
 
 
   
-✨ 站主为算法小狂人博主。
+
 
 <!-- 新增技能卡片 -->
 
