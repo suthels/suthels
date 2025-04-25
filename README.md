@@ -1,11 +1,11 @@
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=算法小狂人(%22欢迎%2C%20浏览!%22);南絮祝您生活愉快，科研顺利!&center=true&size=27"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=算法小狂人(%22欢迎%2C%20您的浏览!%22);南絮祝您生活愉快，科研顺利!&center=true&size=27"> 
   </a> 
 </h1>
 
 <a href="https://github.com/suthels/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=suthels&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-👀" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=suthels&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
  
@@ -13,15 +13,16 @@
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> 
 
-<details>
-  <summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
- 
-<!--my introduction start-->
-    
-- 🔭 WeChat：povz-1202
+<details open>
+  <summary><em><b>I love connecting with different people</b> — if you want to <a href="https://voup.cn"><b>say "hi"</b></a>, I'll be happy to meet you more!</em></summary>
+  
+- 🔭 WeChat：povz-1202  
 - 💬 Be free to ask me about anything [here](https://github.com/suthels/-/issues).
+
 ---
 </details>
+
+
 
 
 
