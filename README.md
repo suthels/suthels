@@ -104,9 +104,18 @@
 
 
 <!-- START_SECTION:brain -->
-<p style="background-color: #FF4500; padding: 8px; border-radius: 4px; color: white;">
-  * <a href="https://mbd.pub/o/eternity/work" target="_blank">mbd官方店铺</a><br>
-  * <a href="https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343" target="_blank">CSDN主站</a> -
-</p>
+<div style="
+  background-color: #FF4500;
+  border: 1px solid #E03E00;
+  border-radius: 6px;
+  padding: 12px;
+  color: white;
+">
+  <ul style="margin: 0; padding-left: 1.2em;">
+    <li><a href="https://mbd.pub/o/eternity/work" target="_blank" style="color: white; text-decoration: underline;">mbd官方店铺</a></li>
+    <li><a href="https://blog.csdn.net/m0_58857684?spm=1000.2115.3001.5343" target="_blank" style="color: white; text-decoration: underline;">CSDN主站</a></li>
+  </ul>
+</div>
 <!-- END_SECTION:brain -->
+
 
