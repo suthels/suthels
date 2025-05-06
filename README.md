@@ -99,12 +99,16 @@
 
 
 
-### 🤾‍♂️ <span style="color: #06D6A0;">重点项目</span>
+### 🤾‍♂️ <span style="color: #06D6A0;">major project</span>
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
 * <a href='https://mp.weixin.qq.com/s/YAgowJP7hyUXkwcE0DwCaA' target='_blank'>25种顶刊算法终极PK！第一名竟然横扫CEC测试集！全新算法重磅上线</a> - 完整转让
+<!-- END_SECTION:douban -->
+
+<!-- START_SECTION:douban -->
+* <a href='https://mbd.pub/o/bread/mbd-ZpuZk51v' target='_blank'>差分进化算法所有变体已全部封装。可以直接调用！告别找不到</a> - 完整封装
 <!-- END_SECTION:douban -->
 
 
