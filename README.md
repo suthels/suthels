@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <a href="https://mbd.pub/o/eternity/work"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=算法小狂人(%22欢迎%2C%20您的浏览!%22);南絮祝您生活愉快，科研顺利!&center=true&size=27"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=算法小狂人(%22欢迎%2C%20您进入店铺选品!%22);南絮祝您生活愉快，科研顺利!&center=true&size=27"> 
   </a> 
 </h1>
 
